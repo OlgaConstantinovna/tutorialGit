@@ -38,4 +38,6 @@ git checkout
 
  Для лучшего изучения анной темой воспользуйтесь следующим материалом:
  [Git для чайников](https://habr.com/ru/post/541258/ "Обязательно для изучения")
- 
+
+ _В самом начале рабоы с Git могут возникнуть ошибки разного рода_
+ ![ошибка при работе с Git](https://raw.githubusercontent.com/legend80s/commit-msg-linter/master/assets/demo-4-compressed.png "что то")
