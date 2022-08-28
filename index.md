@@ -41,3 +41,12 @@ git checkout
 
  _В самом начале рабоы с Git могут возникнуть ошибки разного рода_
  ![ошибка при работе с Git](https://raw.githubusercontent.com/legend80s/commit-msg-linter/master/assets/demo-4-compressed.png "что то")
+ 
+ !["фото об ошибке"](foto.jpg)
+ 
+ ## клонирование репозитирия
+ Чтобы склонировать репозиторий, выполните команду clone,например:
+ ~~~
+ git clone <название удленного репозитория>
+ ~~~
+ 
